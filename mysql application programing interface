@@ -1,0 +1,8 @@
+Application programming interfaces
+Many programming languages with language-specific APIs include libraries for accessing MySQL databases.
+ These include MySQL Connector/Net for integration with Microsoft's Visual Studio (languages such as C# and VB are most commonly
+ used)  and the JDBC driver for Java.
+  In addition, an ODBC interface called MySQL Connector/ODBC allows additional programming languages that support the ODBC 
+  interface to communicate with a MySQL database, such as ASP or ColdFusion.
+  The HTSQL – URL-based query method also ships with a MySQL adapter, allowing direct interaction between a MySQL database and 
+  any web client via structured URLs.
